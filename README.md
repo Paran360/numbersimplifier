@@ -31,4 +31,4 @@ The source code is available on [GitHub](https://github.com/paran360/numbersimpl
 
 ## Author
 
-Created with 🤍 by Paran
+Created with 🤍 by Shah A.
