@@ -17,7 +17,7 @@ This Tampermonkey extension simplifies reading big numbers by converting them in
 
 ## Installation
 
-To install this script, you need to have Tampermonkey or a similar userscript manager installed in your browser. Then, simply click the install button on this page.
+To install this script, you need to have Tampermonkey or a similar userscript manager installed in your browser. Then, simply click the install button on [this page]([https://github.com/paran360/numbersimplifier](https://greasyfork.org/en/scripts/499929-number-simplifier)).
 
 ## Example
 
